@@ -1,0 +1,3 @@
+[submodule "grafana-plugins"]
+	path = grafana-plugins
+	url = https://github.com/grafana/grafana-plugins.git
